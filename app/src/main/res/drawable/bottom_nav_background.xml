@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fondo de color -->
+    <solid android:color="#F2f1f6" /> <!-- Cambia esto por tu color deseado -->
+
+    <!-- Esquinas redondeadas -->
+    <corners android:radius="16dp" /> <!-- Ajusta el radio según el diseño -->
+
+    <gradient
+        android:startColor="#F2f1f6"
+        android:endColor="#E0E0E0"
+        android:angle="90" />
+
+    <stroke
+        android:width="2dp"
+        android:color="#CCCCCC" /> <!-- Cambia el color del borde -->
+
+</shape>
